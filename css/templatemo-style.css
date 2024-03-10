@@ -154,6 +154,10 @@ hr {
   font-size: 60px;
   padding-bottom: 40px;
 }
+
+#work-card-1,#work-card-2,#work-card-3{
+  padding-bottom: 15px;
+}
 /* END WORK */
 
 /* START PORTFOLIO */
